@@ -1,0 +1,340 @@
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csprojResolveAssemblyReference.cache
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarUsuario.resources
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.Cache
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csprojResolveAssemblyReference.cache
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.Cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 06 - 06\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1)\BibliotecaForms\obj\Debug\BibliotecaForms.VericarStatus.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.VericarStatus.resources
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.VericarStatus.resources
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Operacoes.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csprojResolveAssemblyReference.cache
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.Cache
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\bin\Debug\Biblioteca.dll
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\BibliotecaForms\obj\Debug\BibliotecaForms.Emprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\Biblioteca.dll
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\bin\Debug\Biblioteca.dll.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Emprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\BibliotecaForms\obj\Debug\BibliotecaForms.Devolucao.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\BibliotecaForms.exe.config
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\BibliotecaForms.exe
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\BibliotecaForms.pdb
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\Biblioteca.dll
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\Biblioteca.pdb
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\bin\Debug\Biblioteca.dll.config
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.csprojAssemblyReference.cache
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Biblioteca.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Devolucao.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Emprestimo.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.EmprestimoData.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Livros.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Properties.Resources.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.RelatorioDeEmprestimo.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.TopLivros.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.Usuarios.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.VerificarStatus.resources
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.GenerateResource.cache
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CoreCompileInputs.cache
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.csproj.CopyComplete
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.exe
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\BibliotecaForms\obj\Debug\BibliotecaForms.pdb

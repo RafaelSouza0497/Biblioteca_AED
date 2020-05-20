@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{5B4FCE04-2EFE-461F-8DCD-AEE69EA4C549}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dados", "Dados", "{5ADCD766-17AC-46AF-A4F6-470123BB1F08}"
+	ProjectSection(SolutionItems) = preProject
+		Biblioteca\Dados\Teste.txt = Biblioteca\Dados\Teste.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaForms", "BibliotecaForms\BibliotecaForms.csproj", "{08451429-5D78-4A13-9188-F87F8CCC4AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B4FCE04-2EFE-461F-8DCD-AEE69EA4C549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4FCE04-2EFE-461F-8DCD-AEE69EA4C549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4FCE04-2EFE-461F-8DCD-AEE69EA4C549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4FCE04-2EFE-461F-8DCD-AEE69EA4C549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08451429-5D78-4A13-9188-F87F8CCC4AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08451429-5D78-4A13-9188-F87F8CCC4AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08451429-5D78-4A13-9188-F87F8CCC4AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08451429-5D78-4A13-9188-F87F8CCC4AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF35B8F-A706-4416-ACE6-8DED5496D3E2}
+	EndGlobalSection
+EndGlobal

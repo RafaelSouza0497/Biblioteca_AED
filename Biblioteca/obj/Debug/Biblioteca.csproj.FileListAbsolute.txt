@@ -1,0 +1,109 @@
+C:\Temp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Temp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Temp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Temp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Temp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Temp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1142451\Downloads\Biblioteca-\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\1142451\Downloads\Biblioteca-\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\1142451\Downloads\Biblioteca-\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\1137287\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+G:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\BibliotecaForms- 01-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1142451\Downloads\BibliotecaForms - 02-06\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Trabalho Pratico\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Biblioteca - 05 - 06\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\copia\Biblioteca - 06 - 06(copiaTeste)\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafael\Desktop\Aed\Biblioteca - 06 - 06(.1.2)\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.exe
+D:\source\repos\PUC\AED\Biblioteca - 08-06\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 08-06\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Rafae\Desktop\Teste Biblioteca\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\1137287\Downloads\Biblioteca - 12-06- TESTE\Biblioteca - 12-06- TESTE\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Rafae\Desktop\Trabalho AED\Biblioteca - 12-06- Pré-Final\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\RafaelRezende\Desktop\Projetos&Codigos\Biblioteca - 12-06- VersaoFinal\Biblioteca\obj\Debug\Biblioteca.pdb
